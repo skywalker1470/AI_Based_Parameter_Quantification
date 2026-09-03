@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AI-Based Fault Detection & Parameter Quantification on Engine Sensor Data
 
 Portfolio project demonstrating surrogate modeling + fault/anomaly detection on
@@ -170,6 +170,3 @@ Detection F1 by method (all evaluated on the same test set, fault = RUL <= 20):
   sliding-window + surrogate approach can generalize to other sensor-stream
   problems (e.g. the hydraulic-systems condition-monitoring dataset
   mentioned as a fallback).
-=======
-# DeepLearning1
->>>>>>> 7a7a91af4149ed5ed9e13fe0245eadf9cbc9400a
