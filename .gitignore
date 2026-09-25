@@ -6,3 +6,6 @@ __pycache__/
 results/*.json
 results/figures/*.png
 INTERVIEW_PREP.md
+report/*.aux
+report/*.log
+report/*.out

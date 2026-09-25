@@ -5,6 +5,10 @@ Portfolio project demonstrating surrogate modeling + fault/anomaly detection on
 multivariate sensor time-series from a mechanical system, built as preparation
 for AI-based fault detection roles on internal combustion engines.
 
+📄 **Report:** [report/report.pdf](report/report.pdf), a short write-up of
+the method, results and ablations (LaTeX source:
+[report/report.tex](report/report.tex)).
+
 ## Motivation
 
 Physics-based / exact estimation of an engine's health state (remaining
